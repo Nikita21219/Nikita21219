@@ -13,10 +13,10 @@
 
 
 ### :man_technologist: About Me :
-- :telescope: Student of programming school 42
-- :telescope: I am interested in Python, C, C++!
-- :telescope: I am 21
-- :telescope: Back-End Developer
+- :man_student: Student of programming school 42
+- :snake: I am interested in Python, C, C++!
+- :man: I am 21
+- :computer: Back-End Developer
 
 ### :hammer_and_wrench: Languages and Tools:
 <p align="left"> 
