@@ -10,3 +10,8 @@
   <img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" width="500" height="400"/>
 </div>
 
+### :man_technologist: About Me :
+- :telescope: Student of programming school 42
+- :telescope: I am interested in Python, C, C++!
+- :telescope: I am 21
+- :telescope: Back-End Developer
