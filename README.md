@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://madorsky.site">
-    <img src="https://img.shields.io/badge/My site-green?style=for-the-badge&logo=StackShare&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/My site-blue?style=for-the-badge&logo=StackShare&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
