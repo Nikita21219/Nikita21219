@@ -15,11 +15,11 @@
 </div>
 
 
-### :man_technologist: About Me :
-- :man_student: Student of programming school 42
-- :snake: I am interested in Python, C, C++!
+### :man_technologist: About Me:
 - :man: I am 21
 - :computer: Back-End Developer
+- :man_student: Student of programming school 42
+- :snake: I am interested in Go, Python, C, C++!
 
 ### :hammer_and_wrench: Languages and Tools:
 <p align="left"> 
