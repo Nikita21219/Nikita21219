@@ -16,7 +16,6 @@
 
 
 ### :man_technologist: About Me:
-- :man: I am 21
 - :computer: Back-End Developer
 - :man_student: Student of programming school 42
 - :snake: I am interested in Go, Python, C, C++!
