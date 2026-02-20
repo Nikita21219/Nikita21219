@@ -15,7 +15,7 @@
 ### :man_technologist: About Me:
 - :computer: Back-End Developer
 - :man_student: Student of programming school 42
-- :snake: I am interested in Go, Python, C, C++!
+- :snake: I am interested in Go!
 
 ### :hammer_and_wrench: Languages and Tools:
 <p align="left"> 
