@@ -3,9 +3,6 @@
   <a href="https://t.me/kodikoff" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://madorsky.site" target="_blank">
-    <img src="https://img.shields.io/badge/My site-blue?style=for-the-badge&logo=StackShare&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
 </div>
 
 ---
